@@ -1,0 +1,28 @@
+.card__container{
+    width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.card{
+    width: 100%;
+    margin: auto;
+    padding:2.5rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 7px 0 rgba(0,0,0,.4),0 1px 7px 0 rgba(0,0,0,.4);
+    margin: 2.5rem 0;
+
+   
+}
+.card__info{
+    /* display: flex;
+    justify-content: space-between;
+   align-items:start; */
+    font-size: 1.5rem;
+}
+.mark_btn{
+    padding: 10px;
+    color: #fff;
+    min-height:30px; 
+    min-width: 120px
+}
